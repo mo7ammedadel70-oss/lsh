@@ -17,7 +17,7 @@
 #include <sys/wait.h>  /* waitpid */
 
 /* ============================================================
- *  
+ *  CONSTANTS
  * ============================================================ */
 #define LSH_RL_BUFSIZE   1024   /* max chars per input line     */
 #define LSH_TOK_BUFSIZE   64   /* max tokens per line          */
